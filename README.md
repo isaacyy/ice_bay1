@@ -42,44 +42,44 @@
 
         <!-- Financial News Section -->
         <section class="mb-12">
-            <h2 class="text-2xl font-bold mb-6 text-blue-900">Latest Financial Updates</h2>
-            <div class="bg-white p-6 rounded-lg shadow-md">
-                <div class="mb-6 border-b pb-4">
-                    <h3 class="text-xl font-semibold mb-2">Market Insights</h3>
-                    <p class="text-gray-600">Stay tuned for regular updates on market trends, investment opportunities, and financial tips.</p>
+<h2 class="text-2xl font-bold mb-6 text-blue-900">Latest Financial Updates</h2>
+<div class="bg-white p-6 rounded-lg shadow-md">
+      <div class="mb-6 border-b pb-4">
+<h3 class="text-xl font-semibold mb-2">Market Insights</h3>
+<p class="text-gray-600">Stay tuned for regular updates on market trends, investment opportunities, and financial tips.</p>
                 </div>
                 <div class="space-y-4">
-                    <article class="border-l-4 border-blue-600 pl-4">
-                        <h4 class="font-semibold">Latest Update</h4>
-                        <p class="text-gray-600">Check back regularly for new financial insights and market analysis.</p>
-                    </article>
-                </div>
-            </div>
-        </section>
+<article class="border-l-4 border-blue-600 pl-4">
+<h4 class="font-semibold">Latest Update</h4>
+ <p class="text-gray-600">Check back regularly for new financial insights and market analysis.</p>
+</article>
+</div>
+</div>
+</section>
 
-        <!-- Contact Section -->
-        <section class="bg-white p-8 rounded-lg shadow-md">
-            <h2 class="text-2xl font-bold mb-6 text-blue-900">Get Personal Financial Guidance</h2>
-            <p class="mb-6 text-gray-600">Ready to take control of your financial future? Reach out for one-on-one consultation.</p>
+<!-- Contact Section -->
+<section class="bg-white p-8 rounded-lg shadow-md">
+<h2 class="text-2xl font-bold mb-6 text-blue-900">Get Personal Financial Guidance</h2>
+<p class="mb-6 text-gray-600">Ready to take control of your financial future? Reach out for one-on-one consultation.</p>
             
-            <div class="grid md:grid-cols-2 gap-6">
-                <div class="space-y-4">
-                    <h3 class="text-xl font-semibold">Contact Information</h3>
-                    <div class="flex items-center space-x-3">
-                        <i class="fab fa-whatsapp text-green-500 text-xl"></i>
-                        <a href="https://wa.me/2349032033397" class="text-blue-600 hover:text-blue-800">+234 903 203 3397</a>
-                    </div>
-                    <div class="flex items-center space-x-3">
-                        <i class="fas fa-envelope text-blue-500 text-xl"></i>
-                        <a href="mailto:isaacidemeto15@gmail.com" class="text-blue-600 hover:text-blue-800">isaacidemeto15@gmail.com</a>
-                    </div>
-                </div>
+<div class="grid md:grid-cols-2 gap-6">
+<div class="space-y-4">
+<h3 class="text-xl font-semibold">Contact Information</h3>
+<div class="flex items-center space-x-3">
+<i class="fab fa-whatsapp text-green-500 text-xl"></i>
+<a href="https://wa.me/2349032033397" class="text-blue-600 hover:text-blue-800">+234 903 203 3397</a>
+</div>
+<div class="flex items-center space-x-3">
+<i class="fas fa-envelope text-blue-500 text-xl"></i>
+<a href="mailto:isaacidemeto15@gmail.com" class="text-blue-600 hover:text-blue-800">isaacidemeto15@gmail.com</a>
+</div>
+</div>
                 
-                <div class="bg-gray-50 p-6 rounded-lg">
-                    <h3 class="text-xl font-semibold mb-4">Why Choose Us?</h3>
-                    <ul class="space-y-2 text-gray-600">
-                        <li class="flex items-center space-x-2">
-                            <i class="fas fa-check text-green-500"></i>
+<div class="bg-gray-50 p-6 rounded-lg">
+<h3 class="text-xl font-semibold mb-4">Why Choose Us?</h3>
+<ul class="space-y-2 text-gray-600">
+<li class="flex items-center space-x-2">
+<i class="fas fa-check text-green-500"></i>
                             <span>Personalized Financial Strategies</span>
                         </li>
                         <li class="flex items-center space-x-2">
