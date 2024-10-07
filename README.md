@@ -82,38 +82,38 @@
 <li class="flex items-center space-x-2">
 <i class="fas fa-check text-green-500"></i>
                             <span>Personalized Financial Strategies</span>
-                        </li>
-                        <li class="flex items-center space-x-2">
-                            <i class="fas fa-check text-green-500"></i>
+</li>
+<li class="flex items-center space-x-2">
+<i class="fas fa-check text-green-500"></i>
                             <span>One-on-One Consultation</span>
-                        </li>
-                        <li class="flex items-center space-x-2">
-                            <i class="fas fa-check text-green-500"></i>
+</li>
+<li class="flex items-center space-x-2">
+<i class="fas fa-check text-green-500"></i>
                             <span>Student-Focused Advice</span>
-                        </li>
-                        <li class="flex items-center space-x-2">
-                            <i class="fas fa-check text-green-500"></i>
-                            <span>Regular Market Updates</span>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-    </main>
+</li>
+<li class="flex items-center space-x-2">
+<i class="fas fa-check text-green-500"></i>
+<span>Regular Market Updates</span>
+</li>
+</ul>
+</div>
+</div>
+</section>
+</main>
 
-    <!-- Footer -->
-    <footer class="bg-blue-900 text-white py-6 mt-12">
-        <div class="container mx-auto px-4 text-center">
-            <p>&copy; 2024 Dynamic Financial Advisory. All rights reserved.</p>
-            <div class="mt-4 space-x-4">
-                <a href="https://wa.me/2349032033397" class="text-white hover:text-blue-200">
-                    <i class="fab fa-whatsapp text-2xl"></i>
-                </a>
-                <a href="mailto:isaacidemeto15@gmail.com" class="text-white hover:text-blue-200">
-                    <i class="fas fa-envelope text-2xl"></i>
-                </a>
-            </div>
-        </div>
-    </footer>
+<!-- Footer -->
+<footer class="bg-blue-900 text-white py-6 mt-12">
+<div class="container mx-auto px-4 text-center">
+<p>&copy; 2024 Dynamic Financial Advisory. All rights reserved.</p>
+<div class="mt-4 space-x-4">
+<a href="https://wa.me/2349032033397" class="text-white hover:text-blue-200">
+<i class="fab fa-whatsapp text-2xl"></i>
+</a>
+<a href="mailto:isaacidemeto15@gmail.com" class="text-white hover:text-blue-200">
+<i class="fas fa-envelope text-2xl"></i>
+</a>
+</div>
+</div>
+</footer>
 </body>
 </html>
