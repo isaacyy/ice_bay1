@@ -8,27 +8,27 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body class="bg-gray-50">
-    <!-- Header -->
-    <header class="bg-blue-900 text-white py-6">
-        <div class="container mx-auto px-4">
-            <h1 class="text-3xl font-bold">Dynamic Financial Advisory</h1>
+   <!-- Header -->
+   <header class="bg-blue-900 text-white py-6">
+      <div class="container mx-auto px-4">
+     <h1 class="text-3xl font-bold">Dynamic Financial Advisory</h1>
             <p class="mt-2">Your Path to Financial Freedom Starts Here</p>
         </div>
     </header>
 
     <!-- Main Content -->
-    <main class="container mx-auto px-4 py-8">
+<main class="container mx-auto px-4 py-8">
         <!-- Services Section -->
         <section class="mb-12">
             <h2 class="text-2xl font-bold mb-6 text-blue-900">Our Services</h2>
-            <div class="grid md:grid-cols-3 gap-6">
-                <div class="bg-white p-6 rounded-lg shadow-md">
-                    <i class="fas fa-chart-line text-3xl text-blue-600 mb-4"></i>
-                    <h3 class="text-xl font-semibold mb-2">Investment Planning</h3>
+  <div class="grid md:grid-cols-3 gap-6">
+<div class="bg-white p-6 rounded-lg shadow-md">
+    <i class="fas fa-chart-line text-3xl text-blue-600 mb-4"></i>
+<h3 class="text-xl font-semibold mb-2">Investment Planning</h3>
                     <p class="text-gray-600">Personalized investment strategies tailored to your goals and risk tolerance.</p>
                 </div>
-                <div class="bg-white p-6 rounded-lg shadow-md">
-                    <i class="fas fa-wallet text-3xl text-blue-600 mb-4"></i>
+  <div class="bg-white p-6 rounded-lg shadow-md">
+      <i class="fas fa-wallet text-3xl text-blue-600 mb-4"></i>
                     <h3 class="text-xl font-semibold mb-2">Budgeting Advice</h3>
                     <p class="text-gray-600">Learn effective budgeting techniques to manage your finances better.</p>
                 </div>
