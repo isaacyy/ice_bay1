@@ -1,27 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Financial Advisory | Personal Finance Guidance</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dynamic Financial Advisory | Personal Finance Guidance</title>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body class="bg-gray-50">
-   <!-- Header -->
-   <header class="bg-blue-900 text-white py-6">
-      <div class="container mx-auto px-4">
-     <h1 class="text-3xl font-bold">Dynamic Financial Advisory</h1>
-            <p class="mt-2">Your Path to Financial Freedom Starts Here</p>
-        </div>
-    </header>
+<!-- Header -->
+<header class="bg-blue-900 text-white py-6">
+<div class="container mx-auto px-4">
+<h1 class="text-3xl font-bold">Dynamic Financial Advisory</h1>
+<p class="mt-2">Your Path to Financial Freedom Starts Here</p>
+</div>
+</header>
 
-    <!-- Main Content -->
+<!-- Main Content -->
 <main class="container mx-auto px-4 py-8">
-        <!-- Services Section -->
-        <section class="mb-12">
-            <h2 class="text-2xl font-bold mb-6 text-blue-900">Our Services</h2>
-  <div class="grid md:grid-cols-3 gap-6">
+<!-- Services Section -->
+<section class="mb-12">
+<h2 class="text-2xl font-bold mb-6 text-blue-900">Our Services</h2>
+<div class="grid md:grid-cols-3 gap-6">
 <div class="bg-white p-6 rounded-lg shadow-md">
     <i class="fas fa-chart-line text-3xl text-blue-600 mb-4"></i>
 <h3 class="text-xl font-semibold mb-2">Investment Planning</h3>
