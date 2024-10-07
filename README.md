@@ -28,28 +28,28 @@
 <h3 class="text-xl font-semibold mb-2">Investment Planning</h3>
 <p class="text-gray-600">Personalized investment strategies tailored to your goals and risk tolerance.</p>
 </div>
-  <div class="bg-white p-6 rounded-lg shadow-md">
-      <i class="fas fa-wallet text-3xl text-blue-600 mb-4"></i>
-                    <h3 class="text-xl font-semibold mb-2">Budgeting Advice</h3>
-                    <p class="text-gray-600">Learn effective budgeting techniques to manage your finances better.</p>
-                </div>
-                <div class="bg-white p-6 rounded-lg shadow-md">
-                    <i class="fas fa-coins text-3xl text-blue-600 mb-4"></i>
-                    <h3 class="text-xl font-semibold mb-2">Cryptocurrency Guidance</h3>
-                    <p class="text-gray-600">Navigate the crypto market with expert insights and risk management strategies.</p>
-                </div>
-            </div>
-        </section>
+<div class="bg-white p-6 rounded-lg shadow-md">
+<i class="fas fa-wallet text-3xl text-blue-600 mb-4"></i>
+<h3 class="text-xl font-semibold mb-2">Budgeting Advice</h3>
+<p class="text-gray-600">Learn effective budgeting techniques to manage your finances better.</p>
+</div>
+<div class="bg-white p-6 rounded-lg shadow-md">
+<i class="fas fa-coins text-3xl text-blue-600 mb-4"></i>
+<h3 class="text-xl font-semibold mb-2">Cryptocurrency Guidance</h3>
+<p class="text-gray-600">Navigate the crypto market with expert insights and risk management strategies.</p>
+</div>
+</div>
+</section>
 
-        <!-- Financial News Section -->
-        <section class="mb-12">
+<!-- Financial News Section -->
+<section class="mb-12">
 <h2 class="text-2xl font-bold mb-6 text-blue-900">Latest Financial Updates</h2>
 <div class="bg-white p-6 rounded-lg shadow-md">
-      <div class="mb-6 border-b pb-4">
+<div class="mb-6 border-b pb-4">
 <h3 class="text-xl font-semibold mb-2">Market Insights</h3>
 <p class="text-gray-600">Stay tuned for regular updates on market trends, investment opportunities, and financial tips.</p>
-                </div>
-                <div class="space-y-4">
+</div>
+<div class="space-y-4">
 <article class="border-l-4 border-blue-600 pl-4">
 <h4 class="font-semibold">Latest Update</h4>
  <p class="text-gray-600">Check back regularly for new financial insights and market analysis.</p>
