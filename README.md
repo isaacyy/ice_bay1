@@ -39,21 +39,72 @@
 </div>
 </section>
 
-<!-- Financial News Section -->
+<!-- Market Updates Section with TradingView Widget -->
 <section class="mb-12">
 <h2 class="text-2xl font-bold mb-6 text-blue-900">Latest Financial Updates</h2>
 <div class="bg-white p-6 rounded-lg shadow-md">
-<div class="mb-6 border-b pb-4">
-<h3 class="text-xl font-semibold mb-2">Market Insights</h3>
-<p class="text-gray-600">Stay tuned for regular updates on market trends, investment opportunities, and financial tips.</p>
-</div>
-<div class="space-y-4">
-<article class="border-l-4 border-blue-600 pl-4">
-<h4 class="font-semibold">Latest Update</h4>
- <p class="text-gray-600">Check back regularly for new financial insights and market analysis.</p>
-</article>
-</div>
-</div>
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+<div class="tradingview-widget-container__widget"></div>
+<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+{"colorTheme": "light",
+          "dateRange": "12M",
+                "showChart": true,
+                "locale": "en",
+                "largeChartUrl": "",
+                "isTransparent": false,
+                "showSymbolLogo": true,
+                "showFloatingTooltip": false,
+                "width": "100%",
+                "height": "500",
+                "plotLineColorGrowing": "rgba(41, 98, 255, 1)",
+                "plotLineColorFalling": "rgba(41, 98, 255, 1)",
+                "gridLineColor": "rgba(240, 243, 250, 0)",
+                "scaleFontColor": "rgba(106, 109, 120, 1)",
+                "belowLineFillColorGrowing": "rgba(41, 98, 255, 0.12)",
+                "belowLineFillColorFalling": "rgba(41, 98, 255, 0.12)",
+                "belowLineFillColorGrowingBottom": "rgba(41, 98, 255, 0)",
+                "belowLineFillColorFallingBottom": "rgba(41, 98, 255, 0)",
+                "symbolActiveColor": "rgba(41, 98, 255, 0.12)",
+                "tabs": [
+                    {
+                        "title": "Indices",
+                        "symbols": [
+                            {
+                                "s": "FOREXCOM:SPXUSD",
+                                "d": "S&P 500"
+                            },
+                            {
+                                "s": "FOREXCOM:NSXUSD",
+                                "d": "US 100"
+                            },
+                            {
+                                "s": "FOREXCOM:DJI",
+                                "d": "Dow 30"
+                            }
+                        ],
+                        "originalTitle": "Indices"
+                    },
+                    {
+                        "title": "Crypto",
+                        "symbols": [
+                            {
+                                "s": "BINANCE:BTCUSDT",
+                                "d": "Bitcoin"
+                            },
+                            {
+                                "s": "BINANCE:ETHUSDT",
+                                "d": "Ethereum"
+                            }
+                        ],
+                        "originalTitle": "Crypto"
+                    }
+                ]
+            }
+            </script>
+        </div>
+        <!-- TradingView Widget END -->
+    </div>
 </section>
 
 <!-- Contact Section -->
